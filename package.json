@@ -18,7 +18,7 @@
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
-        "@whiskeysockets/baileys": "github:naruyaizumi/baileys",
+        "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
         "@vreden/youtube_scraper": "1.2.7",
         "adm-zip": "^0.5.16",
         "awesome-phonenumber": "^5.9.0",
